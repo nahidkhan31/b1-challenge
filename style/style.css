@@ -37,6 +37,16 @@
     margin-right: 50px;
 }
 
+.connect{
+    font-family: Azeret Mono;
+    font-size: medium;
+    background-color: black;
+    border-radius: 10px;
+    color: white;
+    padding: 10px;
+    margin-top: 20px;
+}
+
 
 .banner-container {
     background-image: url(../assets/Hero-bg.png);
@@ -66,4 +76,5 @@
     line-height: 15px;
     letter-spacing: 0%;
     padding: 10px;
+    margin-top: 20px;
 }
